@@ -1,5 +1,5 @@
 # APEXRADCaptchaService
-![](https://raw.githubusercontent.com/Saeed-Hassanpour/APEXRADCaptchaService/master/persian-datepicker-apex.gif)
+![](https://github.com/Saeed-Hassanpour/APEXRADCaptchaService/blob/master/apexradcaptcha.png)
 
 ## DEMO ##
 
